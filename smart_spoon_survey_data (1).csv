@@ -1,0 +1,23 @@
+```csv
+Age,Gender,Low_sodium_diet,Medical_condition,Restaurant_frequency,Low_sodium_satisfaction,Add_salt_condiments,Aware_of_technology,Interested_in_device,Taste_importance,Expected_features,Purchase_consideration,Concerns_about_technology,Current_salt_content,Dal_Goiju_Palya_salt,Sambar_Rasam_Curd_salt,Biryani_Pulao_Rice_bath_salt,Curries_salt,Dosa_Idly_Chaat_Snacks_salt,Dosa_Idly_Roti_Paratha_Chapathi_salt,Pickles_Papad_salt
+25,male,yes,hypertension,weekly,satisfied,yes,yes,very interested,very important,adjustable intensity,yes,cost,moderate,0.5,0.25,1,0.5,no salt,0.25,0.5
+30,female,no,none,monthly,neutral,no,yes,interested,ver imp,portable design,no,privacy,low,0.25,no salt,0.5,0.25,0.5,0.5,0.25
+45,male,yes,diabetes,daily,dissatisfied,yes,no,not interested,important,mobile app,yes,ease of use,high,1,0.5,1.5,1,0.25,0.5,1
+28,female,no,none,rarely,satisfied,no,yes,interested,very  imp,dietary tracking,no,cost,moderate,no salt,0.25,0.5,0.5,0.5,no salt,0.25
+50,male,yes,heart disease,weekly,neutral,yes,yes,very interested,very important,adjustable intensity,yes,privacy,low,0.5,0.25,no salt,0.25,no salt,0.25,0.5
+35,female,no,none,monthly,satisfied,no,no,interested,important,portable design,no,ease of use,moderate,0.25,0.5,1,0.5,0.5,0.5,0.25
+60,male,yes,hypertension,daily,dissatisfied,yes,yes,not interested,ver imp,mobile app,yes,cost,high,1,1,1.5,1,0.25,0.5,1
+22,female,no,none,rarely,neutral,no,yes,interested,very important,dietary tracking,no,privacy,low,no salt,0.25,0.5,0.25,0.5,no salt,0.25
+40,male,yes,diabetes,weekly,satisfied,yes,no,very interested,important,adjustable intensity,yes,ease of use,moderate,0.5,0.5,1,0.5,no salt,0.25,0.5
+27,female,no,none,monthly,dissatisfied,no,yes,interested,very  imp,portable design,no,cost,high,0.25,0.5,1.5,1,0.5,0.5,0.25
+55,male,yes,heart disease,daily,neutral,yes,yes,not interested,very important,mobile app,yes,privacy,low,0.5,0.25,no salt,0.25,no salt,0.25,0.5
+32,female,no,none,rarely,satisfied,no,no,interested,important,dietary tracking,no,ease of use,moderate,no salt,0.25,0.5,0.5,0.5,no salt,0.25
+65,male,yes,hypertension,weekly,dissatisfied,yes,yes,very interested,ver imp,adjustable intensity,yes,cost,high,1,0.5,1.5,1,0.25,0.5,1
+29,female,no,none,monthly,neutral,no,yes,interested,very important,portable design,no,privacy,low,0.25,0.5,1,0.5,0.5,0.5,0.25
+42,male,yes,diabetes,daily,satisfied,yes,no,not interested,important,mobile app,yes,ease of use,moderate,0.5,0.25,0.5,0.25,no salt,0.25,0.5
+24,female,no,none,rarely,dissatisfied,no,yes,interested,very  imp,dietary tracking,no,cost,high,no salt,0.5,1.5,1,0.5,no salt,0.25
+52,male,yes,heart disease,weekly,neutral,yes,yes,very interested,very important,adjustable intensity,yes,privacy,low,0.5,0.25,no salt,0.25,no salt,0.25,0.5
+33,female,no,none,monthly,satisfied,no,no,interested,important,portable design,no,ease of use,moderate,0.25,0.5,1,0.5,0.5,0.5,0.25
+70,male,yes,hypertension,daily,dissatisfied,yes,yes,not interested,ver imp,mobile app,yes,cost,high,1,1,1.5,1,0.25,0.5,1
+26,female,no,none,rarely,neutral,no,yes,interested,very important,dietary tracking,no,privacy,low,no salt,0.25,0.5,0.25,0.5,no salt,0.25
+```
